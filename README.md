@@ -1,8 +1,8 @@
 # Script-Linux
 
-#!/bin/bash
+********** ROTINA DE BACKUP DO BANCO MYSQL - ESPECIFICAMENTE DO BD ZABBIX **********
 
-# CONFIGURACAO DO BD ZABBIX
+#!/bin/bash
 
 export MYSQL_PWD=senhaderoot
 
